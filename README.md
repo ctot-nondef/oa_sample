@@ -1,4 +1,4 @@
-# oa_front
+# OpenAtlas Frontend Excercise
 
 ## Project setup
 ```
